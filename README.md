@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: ryf2668831835@163.com
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blacegg)
+![Visitor Count](https://profile-counter.glitch.me/Blacegg/count.svg)
