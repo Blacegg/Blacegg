@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blacegg)
 ![Visitor Count](https://profile-counter.glitch.me/Blacegg/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blacegg)](https://github.com/Blacegg/github-readme-stats)
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
